@@ -1,6 +1,9 @@
 ![kmertklogo](https://github.com/user-attachments/assets/5b18188a-79da-4001-ba04-7fb35b6f051e)
-# KmerTK - K-mer工具集
+
 [English](README.en.md) | 中文
+
+# KmerTK - K-mer工具集
+
 KmerTK是一个高效的k-mer分析工具集，集成了多种k-mer相关的功能，专为高通量序列分析设计。
 
 ## 特性
