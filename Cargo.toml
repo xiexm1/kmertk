@@ -1,0 +1,17 @@
+[package]
+name = "kmertk"
+version = "0.1.0"
+edition = "2021"
+authors = ["KmerTK Team"]
+description = "K-mer分析工具集"
+
+[dependencies]
+clap = { version = "4.4", features = ["derive"] }
+rayon = "1.8"
+bio = "1.4"
+csv = "1.3"
+flate2 = "1.0"
+aho-corasick = "1.1"
+rand = "0.8"
+indicatif = "0.17"
+bit-vec = "0.6"
