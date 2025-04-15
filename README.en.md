@@ -1,4 +1,6 @@
+![kmertklogo](https://github.com/user-attachments/assets/5b18188a-79da-4001-ba04-7fb35b6f051e)
 # KmerTK - K-mer Toolkit
+English | [中文](README.md)
 
 KmerTK is an efficient k-mer analysis toolkit that integrates multiple k-mer related functionalities, designed for high-throughput sequence analysis.
 
